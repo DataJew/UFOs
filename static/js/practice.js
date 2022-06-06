@@ -37,14 +37,22 @@
 //    }
 // }
 
-// create a for loop to iterate through an array of vegetables
-var vegetables = ["Carrots", "Peas", "Lettuce", "Tomatoes"];
-	// build the for loop
-for (var i = 0; i < vegetables.length; i++) {
-    console.log("I love " + vegetables[i]);
-}
+// // create a for loop to iterate through an array of vegetables
+// var vegetables = ["Carrots", "Peas", "Lettuce", "Tomatoes"];
+// 	// build the for loop
+// for (var i = 0; i < vegetables.length; i++) {
+//     console.log("I love " + vegetables[i]);
+// }
 
-// loop through numbers without using an array, instead using static value
-for (var i = 0; i < 5; i++) {
-   console.log("I am " + i);
-}
+// // loop through numbers without using an array, instead using static value
+// for (var i = 0; i < 5; i++) {
+//    console.log("I am " + i);
+// }
+
+// // if-statement syntax
+// if ( condition ) { code to execute }
+
+// // pseudocode practice
+// if (a date is entered) {
+//     Filter the default data to show only the date entered
+// };
