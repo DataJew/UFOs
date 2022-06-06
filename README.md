@@ -43,7 +43,7 @@ D3 functionality makes an instance listener for multiple changes in our search, 
 
 
 2. **Results:** 
-![name-of-you-image](https://github.com/DataJew/UFOs/blob/main/Resources/images/UFO%20Finder.pdf)
+![name-of-you-image](https://github.com/DataJew/UFOs/blob/main/Resources/images/UFO%20Finder%20Webpage%20Screenshot.png)
 
 3. **Summary:** In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
