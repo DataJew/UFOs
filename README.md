@@ -11,7 +11,7 @@
 ### Deliverable Requirements:
 Using JavaScript and HTML, you’ll modify the code in your `index.html` file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
 
-(image placeholder)
+[(image placeholder)](https://github.com/DataJew/UFOs/blob/main/Resources/images/Deliverable1_instructions.png)
 
 Using JavaScript, you’ll replace the handleClick() function in your app.js file with a new function that saves the element, value, and id of the filter that was changed. Then, you’ll create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
@@ -43,7 +43,7 @@ D3 functionality makes an instance listener for multiple changes in our search, 
 
 
 2. **Results:** 
-(image placeholder)
+[(image placeholder)](https://github.com/DataJew/UFOs/blob/main/Resources/images/UFO%20Finder.pdf)
 
 3. **Summary:** In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
